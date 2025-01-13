@@ -147,6 +147,7 @@ img {
   justify-content: center;
 }
 
+/* Media Query para index */
 @media (min-width: 520px) {
   .calzado .contenedor-grid {
     grid-template-columns: repeat(1, 1fr);
